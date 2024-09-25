@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Enemy2
+comment0.text=\r\n\ this\ enemy\ has\ only\ one\ life\ and\ moves\ fast\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=life
+comment2.target=int\ removeBulletOrEnemy(int)
+numComments=3
